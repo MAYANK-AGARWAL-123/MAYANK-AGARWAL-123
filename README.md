@@ -35,18 +35,16 @@ Hi there 👋 I'm **Mayank**, a passionate Full Stack Developer and B.Tech CSE s
 
 ## 📈 GitHub Stats
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-github&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-github&layout=compact&theme=radical)
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAYANK-AGARWAL-123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANK-AGARWAL-123&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mayank-dev/)
-- [Portfolio Website](https://yourportfolio.com) <!-- Replace with actual if available -->
-- [LeetCode](https://leetcode.com/yourprofile) <!-- Replace with actual -->
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yourprofile) <!-- Replace with actual -->
-
+- [LinkedIn](https://www.linkedin.com/in/mayank-agarwal-338b1028b/)
+- [LeetCode](https://leetcode.com/u/Mayank1759/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/agarwalmayzoy/)
 ---
 
 _Thanks for visiting my profile! Let's build something awesome together 🚀_
